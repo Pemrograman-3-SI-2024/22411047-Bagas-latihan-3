@@ -1,0 +1,17 @@
+.display-4.jumbotron {
+    padding-top: 5rem; 
+ }
+ section {
+    padding-top :5rem;
+ }
+ 
+ 
+
+ .card .card-img-top{
+    max-height: 10%;
+ }
+
+.isi .isi2 p {
+    font-family: sans-serif;
+    text-align: center;
+ }
